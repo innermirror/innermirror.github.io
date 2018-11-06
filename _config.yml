@@ -79,5 +79,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/innermirror/czz.github.io.git
+  repo: https://github.com/innermirror/innermirror.github.io.git
   branch: master
