@@ -4,11 +4,11 @@
 
 # Site
 title: Hexo
-subtitle:
+subtitle: my new cabin
 description:
 keywords:
 author: John Doe
-language:
+language: zh-tw
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
