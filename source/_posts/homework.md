@@ -1,10 +1,8 @@
 ---
 title: homework
-date: 2018-11-10 10:01:56
-tags: [我的小屋,hexo,github,菜鸟,咸鱼,homework,Javascript,html,CSS,激光测距,qt]
+date: 2018-11-10 16:44:39
+tags: [github,hexo,homework,激光测距,matalab,CSS,qt,salted fish]
 ---
-
-#这是这次的作业
 
 # Linux是什么?
 + linux系统是一款广泛应用于服务器的操作系统
@@ -21,7 +19,7 @@ tags: [我的小屋,hexo,github,菜鸟,咸鱼,homework,Javascript,html,CSS,激�
 4. 作为嵌入式操作系统安装在计算机硬件上比如router和CPU等等
 
 
-+ linux系统是一款广泛应用于服务器的操作系统
+
 # Windows和linux的区别
 1. linux是开源软件，而windows不是
 2. linux运行程序的空间与系统相对独立，即便软件运行崩溃也不像windows会经常死机
@@ -280,7 +278,7 @@ text.c–tect.i
 2. Visual Studio–Microsoft Visual Studio
 3. win–tc
 4. Code::Blocks
-5. Turb 
+5. Turb C
 6. gcc
 7. DEV C++
 8. C–Free
@@ -299,5 +297,3 @@ return带参数的就是返回值.
 * ***每一个C程序的执行都是在系统的支持下进行的，main函数是系统执行相就的程序得到“调用”，从系统命令行中得到相应的参数***
 + *main函数有两个参数，其中第一个参数的类型为整型，用于指出命令行中字符串的个数；第二个参数是一个字符指针数组，分别指向命令行中各个字符串，其一般形式为：*
 + `main(int argc, char *argv[ ];`其中，变量的名字可以根据程序人员的爱好进行改变，但参数的数目及各参数的类型是不可改变的，如有一个程序文件为file_cpy.exe，如果执行时，命令行为：`file_cpy s_f d_f<CR>`，则参数argc得到值3，而argv[0]、argv[1]、argv[2]分别指向字符串“file_cpy”、“s_f”、“d_f”。
-
-
